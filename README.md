@@ -98,10 +98,3 @@ Upon completion (or on returning), they see a “See your results” card confir
 
 - **Automated Testing**: Add unit and integration tests (Jest, React Testing Library) to safeguard component logic.
 - **Internationalization & Accessibility**: Support multiple languages and ensure WCAG‐compliant interactions.
-
----
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute!
-# pathfinder-test
