@@ -58,8 +58,8 @@ Upon completion (or on returning), they see a “See your results” card confir
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-username/pathfinder-quiz.git
-   cd pathfinder-quiz
+   git clone https://github.com/your-username/pathfinder-test.git
+   cd pathfinder-test
 
    ```
 
